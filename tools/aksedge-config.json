@@ -1,6 +1,7 @@
 {
     "SchemaVersion": "1.16",
     "Version": "1.0",
+    "AioDeploy": true,
     "DeploymentType": "SingleMachineCluster",
     "Init": {
         "ServiceIPRangeSize": 10,
